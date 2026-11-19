@@ -1,0 +1,98 @@
+Title: Carry out MOT contingency testing
+Source: https://www.gov.uk/guidance/mot-testing-service-contingency-testing
+Last updated: 2016-01-07T13:50:20+00:00
+Retrieved: 2026-11-13
+Licence: Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+------------------------------------------------------------
+
+How contingency testing works
+
+You can still carry out MOT tests if the MOT testing service isn’t working by using ‘contingency testing’.
+
+- 
+
+Get the contingency code from the MOT testing service, email or by phone.
+
+- 
+
+Fill in a contingency testing certificate and give it to the customer.
+
+- 
+
+Record the test result on the MOT testing service when it’s available again.
+
+When you can use contingency testing
+
+You can only use contingency testing when:
+
+- the MOT testing service is completely or partly unavailable because of Driver and Vehicle Standards Agency (DVSA) technical problems
+
+- a widespread broadband problem
+
+Check if the service is working at the start of each test before you continue using contingency testing.
+
+Problems with your own IT or services
+
+You can’t use contingency testing if the problem is down to your own IT equipment or services. You have to stop testing until it’s fixed.
+
+Get a contingency code
+
+If there’s a problem, check:
+
+- the MOT testing service to see if a code has been published
+
+- your email to see if a code has been sent to you
+
+Call the MOT testing service desk if a code hasn’t been published or sent.
+
+MOT testing service desk
+
+Telephone: 0330 123 5654
+
+Monday to Friday, 8am to 5pm
+
+Find out about call charges
+
+Contingency codes last for one day. You need to get a new code each day there’s a problem.
+
+Fill in the contingency testing certificate
+
+You must hand-write the contingency testing certificate and give it to the customer.
+
+You have to download the certificates from the MOT testing service because they’re automatically filled in with your details. You can’t download the certificates to issue from GOV.UK.
+
+Download the certificates
+
+Download each certificate from the MOT testing service:
+
+- contingency MOT test certificate (CT20)
+
+- contingency refusal of an MOT test certificate (CT30)
+
+Save a copy on your PC or tablet and print them as you need them, or print one set and photocopy them.
+
+Record contingency tests after an outage
+
+You must record all test results as soon as the MOT testing service is available again.
+
+- 
+
+Sign in to the MOT testing service.
+
+- 
+
+Click ‘Record contingency test.’
+
+You’ll then be guided through the process.
+
+You can then print the relevant testing documents to give to the customer.
+
+Keep contingency testing documents
+
+You must keep:
+
+- a copy of each contingency testing certificate issued at your vehicle testing station (VTS) for 3 months
+
+- emissions printouts for tests - attach them to the relevant contingency testing documents
+
+DVSA staff can ask to see these documents when they visit your VTS.

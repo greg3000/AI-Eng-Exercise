@@ -1,0 +1,240 @@
+Title: Changes to driving test booking rules in 2026
+Source: https://www.gov.uk/guidance/changes-to-driving-test-booking-rules-in-2026
+Last updated: 2026-06-19T13:35:17+01:00
+Retrieved: 2026-11-13
+Licence: Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+------------------------------------------------------------
+
+The new rules only apply to car driving tests. They do not apply to other types of tests.
+
+What the new rules are
+
+The new rules for booking and managing car driving tests were introduced in stages.
+
+ | Rule subject
+ | Old rule
+ | New rule
+ | Since when
+
+ | Number of changes allowed
+ | Up to 6 changes
+ | Only 2 changes
+ | Since 31 March 2026
+
+ | Who can book your test
+ | You or your driving instructor
+ | Only you
+ | Since 12 May 2026
+
+ | Who can manage your test
+ | You or your driving instructor
+ | Only you
+ | Since 12 May 2026
+
+ | Using unofficial services to search the booking service for tests
+ | Allowed
+ | Not allowed
+ | Since 12 May 2026
+
+ | Where you can move your test
+ | Any test centre
+ | Only to the 3 nearest test centres
+ | Since 9 June 2026
+
+Booking your car driving test
+
+You need to book your car driving test yourself on GOV.UK. Your driving instructor is not allowed to book it for you.
+
+Before you book your test
+
+Before you book, speak to your driving instructor to:
+
+- agree that you’re ready to take the test
+
+- ask them for their driving instructor reference number - you can enter this when you book to make sure your instructor is available
+
+Booking your test
+
+When you book your test:
+
+- only book at a test centre you intend to use - you will only be able to move your test to nearby centres
+
+- choose a date you realistically expect to be ready by - you are only allowed to make 2 changes to your appointment
+
+- use your driving instructor’s reference number
+
+You have to confirm that you:
+
+- are the learner who will be taking the test
+
+- agree to a set of terms and conditions
+
+It’s against the law to book a driving test for someone else.
+
+Book your driving test.
+
+Making changes to your car driving test
+
+There are 3 new rules about how you manage your driving test appointment:
+
+- you can only make 2 changes to your booking
+
+- only you are allowed to make changes to your own booking
+
+- you can only move your test to nearby centres
+
+How many times you can change your test
+
+You can only make 2 changes to your existing booking. If you had used all your changes under the old rules, you can make 2 more changes from 31 March 2026.
+
+Only use your limited changes when your circumstances genuinely change.
+
+What counts as a change
+
+Only these things count as a change:
+
+- changing the date or time
+
+- changing the test centre
+
+- swapping your appointment with another learner driver who already has a test booked
+
+If you change more than one thing at the same time (for example, the date and test centre together), this still counts as one change.
+
+Example
+
+If you change your test from Northampton on 4 June to Kettering on 12 May, this counts as one change
+
+What does not count as a change
+
+These things do not count towards your change limit:
+
+- updating your address or contact details on your booking
+
+- adding or removing your driving instructor’s reference number
+
+- any changes that the Driver and Vehicle Standards Agency (DVSA) needs to make to your test (for example, due to bad weather)
+
+If DVSA changes your test (for example, due to bad weather), you will be reset to having 2 changes available again.
+
+If you need to make more changes
+
+If you need to make more changes after you have used your 2 changes, you have to cancel your test and book a new one.
+
+You will get a full refund if you cancel at least 10 full working days before the test date.
+
+Change your driving test appointment.
+
+Who is allowed to make changes to your test
+
+Only you are allowed to change, cancel or swap your own driving test.
+
+You have to confirm that you:
+
+- are the learner who will be taking the test
+
+- agree to a set of terms and conditions
+
+You’re not allowed to change, swap or cancel a driving test for someone else.
+
+Using unofficial services
+
+You are not allowed to use unofficial services that scan the driving test booking service for appointments. This includes driving test cancellation finder websites or apps.
+
+DVSA continuously monitors the driving test booking service. If you book or manage your test in a way that breaks the terms and conditions, DVSA can:
+
+- suspend your online access to book and manage your driving test - you’ll then only be allowed to do this by phone
+
+- cancel your booking
+
+Where you can move your test
+
+When you book a new test, you can only move it to:
+
+- any of the 3 centres nearest to where your test is booked 
+
+- the test centre you first booked at on that current booking
+
+Example
+
+You book your test at Chesterfield. The 3 nearest centres to Chesterfield are:
+
+- Sheffield (Handsworth)
+
+- Ashfield
+
+- Sheffield (Middlewood Road)
+
+You can use your first change to move your test to one of those.
+
+You decide to move your test to Sheffield (Handsworth). You are allowed to make one more change.
+
+You can use your second change to move your test to the 3 centres nearest to Sheffield (Handsworth). These are:
+
+- Rotherham
+
+- Sheffield (Middlewood Road)
+
+- Worksop
+
+You can also use your second change to move back to the test centre you first booked at, which was Chesterfield.
+
+A chart showing an example of your options for changing your test.
+
+Check which test centres are nearest to each other.
+
+If you made a booking before 9 June 2026
+
+If you had an existing booking, the new rule applies to where your test was booked at on 9 June 2026 - not where you first booked.
+
+Example
+
+In February 2026, you booked your test at St Helens with a test date of July 2026. In May 2026, you decide to use your first change to move it to Watford with a test date of July 2026.
+
+On 9 June 2026, the new rule came in. Your test is now at Watford, so you can use your second change to move to the 3 nearest centres to Watford. These are:
+
+- Borehamwood (London)
+
+- Pinner (London)
+
+- Mill Hill (London)
+
+You can only move your test to these centres. You cannot move your test back to St Helens.
+
+Helping someone to book and manage their driving test
+
+You can still help someone you know to book and manage their driving test. They might be a friend, family member, or someone you support as part of your job.
+
+The person you’re helping must be with you while you help them.
+
+You need to ask the person you’re helping to complete as many of the steps as they can by themselves.
+
+Use an email address and phone number that either belongs to them or they have easy access to. If they do not have their own email address, you can help them set one up.
+
+How driving instructors are affected
+
+If you’re a driving instructor, you can no longer book and manage car driving tests for your pupils.
+
+It’s now against the law for you or anyone else to book a test for your pupils. You’re also not allowed to change, swap or cancel a driving test for someone else.
+
+What happens to tests you’ve already booked
+
+Any driving tests you had already booked for your pupils are still valid and will go ahead as planned.
+
+You must give your pupils their driving test reference numbers for these tests. This is so they can manage their tests themselves.
+
+Manage your availability to take your pupils to driving tests
+
+If you are a driving instructor, you can still manage when you are available to take your pupils for driving tests.
+
+You can set:
+
+- morning and afternoon hours you are available for each day of the week
+
+- one-off times you are unavailable - for example, when you are on holiday
+
+- how many minutes you need between tests
+
+This means that if a learner driver adds your driving instructor personal reference number to your booking, the booking system will automatically check if you are available.
+
+Find out how to manage when you are available to take your pupils for driving tests.

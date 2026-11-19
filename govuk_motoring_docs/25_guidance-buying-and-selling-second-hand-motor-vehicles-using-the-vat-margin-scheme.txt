@@ -1,0 +1,153 @@
+Title: Buying and selling second-hand motor vehicles using the VAT margin scheme
+Source: https://www.gov.uk/guidance/buying-and-selling-second-hand-motor-vehicles-using-the-vat-margin-scheme
+Last updated: 2026-11-02T09:00:01+00:00
+Retrieved: 2026-11-13
+Licence: Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+------------------------------------------------------------
+
+There is additional information you need to record if you buy or sell second-hand motor vehicles using a margin scheme. Other matters that may affect margin scheme calculations are also explained in this guidance.
+
+Legally, motor cars and other motor vehicles are subject to different margin schemes but for practical purposes the treatment is the same.
+
+When you can use the scheme
+
+You can use a margin scheme for:
+
+- any motor vehicle that meets the normal margin scheme conditions of being second-hand
+
+- motor vehicles purchased through the Motability Scheme, for which you have an invoice showing VAT charged at the zero rate
+
+- motor vehicles that qualify as works of art, antiques or collectors’ items 
+
+The treatment may be different if you buy and sell goods using a VAT margin scheme in Northern Ireland.
+
+You cannot use the scheme for:
+
+- new vehicles (registration and delivery mileage do not make a vehicle ‘used’ for margin scheme purposes)
+
+- vehicles imported into the UK, including vehicles collected on your behalf (unless they qualify as a work of art, antique or collectors item)
+
+- vehicles bought in Great Britain for resale in Northern Ireland (these may be eligible for the second hand motor vehicle payment scheme)
+
+- any vehicle purchased on an invoice which shows VAT separately, regardless of whether you reclaim the VAT
+
+- category A and B write-off vehicles, or any vehicle which is subject to the End Of Life Directive
+
+- 
+new means of transport purchased from EU member states into Northern Ireland — these are always liable to VAT in the member state of destination
+
+- vehicles bought from registered dealers in EU member states that are:
+
+- supplied to Northern Ireland
+
+- not supplied under a margin scheme
+
+If a motor vehicle is not eligible for the margin scheme, you should charge and reclaim VAT in the normal way.
+
+You can find further information in section 7 of Motoring Expenses (VAT Notice 700/64).
+
+Purchase price
+
+Your purchase price is everything which you pay for the vehicle.
+
+You must not include any costs in connection with preparing the vehicle for sale. Your purchase price must not include the cost of any repairs, refurbishment, accessories or business overheads.
+
+You can reclaim the VAT you are charged on any business overheads, repairs, parts or accessories, subject to the normal rules.
+
+Selling price
+
+Your selling price is everything you receive for the vehicle, whether from the buyer or a third party. It includes:
+
+- incidental expenses directly linked to the sale, for example, where you had to pay for an MOT to make the vehicle saleable
+
+- accessories fitted prior to the sale
+
+Part-exchange
+
+Your selling price should include the value of any vehicle taken in part-exchange. That value will be the purchase price of that vehicle for the purposes of calculating any margin on its later sale.
+
+Sales of scrap
+
+Motor vehicles that are eligible for sale under a margin scheme may be included in the global accounting VAT margin scheme if they are sold on as scrap.
+
+You must keep the normal commercial documentation to show that the vehicle no longer exists and that the parts are therefore eligible for global accounting.
+
+If the vehicle has already been entered into your second-hand stock book you should close the entry and transfer the details to your global accounting purchase records.
+
+What affects margin scheme calculations
+
+How to treat MOTs
+
+If you sell a second-hand car with an MOT, you’re making a single supply.
+
+You should not deduct the value of the MOT from your margin scheme selling price.
+
+You should record the full selling price, including the MOT, in your stock book, and you should use this figure for calculating the margin on the sale.
+
+How to treat vehicle tax
+
+If you agree to tax a vehicle on behalf of the customer you may treat this as a separate supply, provided you can meet the conditions for a disbursement, as explained in VAT: costs or disbursements passed on to customers.
+
+If the conditions for treatment as a disbursement have been met, the vehicle tax does not form part of the margin for the purposes of the second-hand margin scheme. 
+
+If you cannot meet these conditions, then the car and vehicle tax are treated as a single supply, and you must calculate the margin on the total combined value.
+
+Vehicles you have rebuilt
+
+You can sell a vehicle you’ve rebuilt under the margin scheme if both:
+
+- the vehicle is from one or more used vehicles which you bought under eligible circumstances
+
+- the Driver and Vehicle Licensing Agency (DVLA) does not require it to be re-registered
+
+The purchase price you enter in your stock book is the price you paid for the vehicle — the registration number is carried forward.
+
+Vehicles you have rebuilt
+
+If you construct a vehicle from used components and parts of other vehicles and the DVLA gives it a new registration number, you cannot use the margin scheme. You must account for VAT on the full selling price.
+
+Selling vehicles that have been adapted for a disabled person
+
+If the vehicle meets the conditions for zero-rating the margin will be zero-rated too. This is the case if you purchased and resold an adapted vehicle or adapted the vehicle after purchase.
+
+As there would be no benefit to you in selling a zero-rated vehicle under the margin scheme you may sell the vehicle outside the margin scheme. In your stock book, you should record the reason why you have closed the entry. You can raise an invoice for the vehicle in the usual way, as you would do for any sale you make outside the margin scheme.
+
+Find more information about when vehicles adapted for use by a disabled person will be zero-rated in VAT relief on adapted motor vehicles for disabled people and charities (VAT Notice 1002).
+
+Linked insurance products and warranties
+
+For more information about linked insurance products and warranties, read Using the VAT margin scheme for linked insurance products and warranties.
+
+How to work out the margin and VAT due
+
+You should calculate the margin and VAT due using the normal margin scheme rules.
+
+Records to keep
+
+The normal margin scheme records and invoicing rules apply. 
+
+The following additional information must also be recorded on purchase and sales invoices and in your stock book.
+
+You should record:
+
+- the vehicle registration number (VRN) or if none, the Vehicle Identification Number (VIN)
+
+- a description of the vehicle (for example, make and model)
+
+If the VRN changes between purchase and sale, that should be recorded and relevant documentation should be held.
+
+Businesses that make an occasional sale of eligible goods do not need to comply with the full record-keeping requirements.
+
+Further information
+
+You must show any goods you buy or sell using a margin scheme on your VAT return.
+
+Tertiary legislation
+
+You can find the legal conditions in VAT tertiary legislation:
+
+- Section 2.3 – additional information requirements for vehicles
+
+- Section 6.5 – global scheme for scrap vehicles
+
+- Section 8 – occasional sales

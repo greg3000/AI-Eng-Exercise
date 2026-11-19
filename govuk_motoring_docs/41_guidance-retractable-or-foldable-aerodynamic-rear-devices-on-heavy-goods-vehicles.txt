@@ -1,0 +1,64 @@
+Title: Retractable or foldable aerodynamic rear devices on heavy goods vehicles
+Source: https://www.gov.uk/guidance/retractable-or-foldable-aerodynamic-rear-devices-on-heavy-goods-vehicles
+Last updated: 2022-02-14T00:00:00+00:00
+Retrieved: 2026-11-13
+Licence: Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+------------------------------------------------------------
+
+The fitment of type approved aerodynamic rear devices can have a positive impact on the aerodynamic performance of trucks and truck/trailer combinations.
+
+Improving the aerodynamic performance of heavy goods vehicles (HGVs) has been identified as one of the measures that can be introduced to reduce a vehicle’s fuel consumption and its carbon dioxide (CO2) emissions.
+
+To ensure the safe deployment of retractable or foldable aerodynamic rear devices, this guidance provides good practice advice on how and when such devices may be used, particularly in urban and rural areas where other vulnerable road users are present.
+
+Retractable or foldable aerodynamic rear devices
+
+Operators and drivers have a responsibility for ensuring the safe operation of any retractable or foldable aerodynamic rear device when in use. It is important that the component manufacturers guidance and instructions on the installation and use of the devices are adhered to.
+
+It is advisable, for safety reasons, that retractable or foldable aerodynamic rear devices should be in the closed position in urban and rural areas where they are likely to encounter vulnerable road users.
+
+This would be usually on roads with a speed limit of 30 miles per hour or less (for example, built-up areas, generally with street lighting).
+
+It is also advisable that retractable or foldable aerodynamic rear devices should be in the closed position in situations or areas where special attention or consideration is necessary, such as:
+
+- while manoeuvring, reversing or parking the vehicle
+
+- when the vehicle is parked
+
+- while loading or unloading goods from the side
+
+- in preparation of and during intermodal transport (for example, on ferries and during rail transport)
+
+In intermodal transport operations, the devices shall not protrude more than 25mm on each side of the vehicle. The total width of the vehicle including the devices shall not exceed 2,600mm.
+
+Defective, unsafe or malfunctioning devices should be repaired to the original manufacturers specifications or secured or immediately removed.
+
+Rear aerodynamic devices and equipment are not required to be retractable or foldable if the maximum dimensional requirements are complied with under all conditions.
+
+Enforcement
+
+Operators and drivers are responsible for ensuring their vehicles are safe, used and parked in a way that does not put other road users at risk. The police and the Driver and Vehicle Standards Agency (DVSA) are responsible for enforcing the safe use of vehicles on the road and will investigate incidents involving this technology.
+
+Installation of the devices should be in accordance with the manufacturer’s instructions and to their specified standard. DVSA is responsible for investigating vehicle safety recalls.
+
+Enforcement on the safe use of rear aerodynamic devices and equipment will be reliant on:
+
+- section 100(1) of the Construction and Use (C&U) Regulations covering ‘Maintenance and use of vehicle so as not to be a danger, etc’
+
+- section 42 of the Road Traffic Act 1988, which makes it an offence to fail to comply with any construction and use requirements
+
+Legislation
+
+The retained EU Type Approval Masses and Dimensions Regulations (Regulation (EU) 1230/2012, as amended, in particular by S.I. 2020/1393) allows for these longer vehicles to be type approved.
+
+The Road Vehicles (C&U) Regulations 1986 as amended, in particular by S.I. 2022/59, (C&U Regulations), allows certain vehicles on roads in Great Britain to utilise rear aerodynamic devices and equipment (which must be type approved in accordance with the relevant standards).
+
+The amendments made to C&U Regulations by S.I. 2022/59 exempt vehicles using rear aerodynamic devices and equipment from the calculation of ‘overall length’ and ‘overall width’.
+
+The overall length of these vehicles will continue to be constrained by the relevant turning circle requirements (in both the deployed and in-use position or in the fixed in-use position) and the load length limits.
+
+Vehicles with rear aerodynamic devices and equipment still need to comply with the lighting requirements in the Road Vehicles Lighting Regulations 1989 as amended, in particular, regulation 21 covering ‘Projecting trailers and vehicles carrying overhanging or projecting loads or equipment’.
+
+For example, vehicles with devices or equipment that project over 1m from the rear, will require a red lamp to be mounted on them and a red reflector, both of which must be visible from a reasonable distance behind the vehicle.
+
+When in use or stored, the aerodynamic devices must not obscure rear position lamps, direction indicators or rear retro reflectors. Due consideration should also be given to maintaining the conspicuity markings at the rear of the vehicle in both conditions.
