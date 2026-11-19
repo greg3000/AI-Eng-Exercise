@@ -19,7 +19,7 @@ Car
  | £23
  | £23
 
- | Driving test
+ | Theory test
  | £62
  | £75
 
